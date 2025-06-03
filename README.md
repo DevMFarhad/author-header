@@ -9,6 +9,24 @@ Insert a professional multiline author header comment in any file type.
 - Auto-detects comment syntax
 - User-configurable name, email, organization
 
+## 🔌 Installation
+
+You can install the **Author Header** from VS Code Marketplace:
+
+1. Open **Visual Studio Code**
+2. Go to the **Extensions** view (`Ctrl+Shift+X`)
+3. Search for:  
+   ```
+   Author Header
+   ```
+4. Click **Install**
+
+Or visit the extension on the Marketplace:  
+👉 [Author Header on Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=DevMFarhad.author-header)
+
+---
+
+
 ## ⚙️ Setup
 
 Go to **Settings → Author Header** and set:
@@ -22,7 +40,7 @@ Go to **Settings → Author Header** and set:
 2. Open Command Palette (`Ctrl+Shift+P`)
 3. Run: **Insert Author Header (Multiline)**
 
-## 💻 Keyboard Shortcut
+### 💻 Keyboard Shortcut
 
 - Default: `Ctrl + Alt + H`
 - You can customize it in **Keyboard Shortcuts** (`File → Preferences → Keyboard Shortcuts`)
